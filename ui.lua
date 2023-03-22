@@ -403,7 +403,7 @@ coroutine.wrap(GRIR_fake_script)()
             Checked.BackgroundTransparency = 1.000
             Checked.Position = UDim2.new(-0.214285731, 0, -0.214285731, 0)
             Checked.Size = UDim2.new(0, 20, 0, 20)
-            Checked.Image = "http://www.roblox.com/asset/?id=12803559726"
+            Checked.Image = "http://www.roblox.com/asset/?id=12741940879"
             Checked.ImageTransparency = 1
             Checked.ScaleType = Enum.ScaleType.Fit
             
